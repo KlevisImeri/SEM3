@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "d53ea3593b098a16",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4358cd55b85e8b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea8e08addf93234f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DB/Query Optimization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Query Optimization"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88ab14f8b52feebc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea7f65f64f3bb666",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f86be8f80596f7c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1ce1cf25fecf0629",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b071f34b30fdffc7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 463.5
+  },
+  "right": {
+    "id": "78523b066b263f20",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cda3004ea4a2b94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8b8d836fac685da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DB/Exercieses/Tutorials/Practice_01.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Practice_01"
+            }
+          },
+          {
+            "id": "f01f5c7b7d115d25",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ff96c85b6ef4d809",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DB/Exercieses/Tutorials/Practice_01.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Practice_01"
+            }
+          },
+          {
+            "id": "dc462df4b0f65d05",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4e0391667ce98f58",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DB/Exercieses/Tutorials/Practice_01.pdf"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Practice_01"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-tts:Text to Speech": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "ea8e08addf93234f",
+  "lastOpenFiles": [
+    "DB/Mangut.md",
+    "DB/Lab3 SQL2 Labor complaint about the grading.md",
+    "DB/Databases Notes.md",
+    "DB/Exercieses/Solutions/Solution to an Interesting Question.pdf",
+    "DB/Exercieses/Tutorials/Practice_01.pdf",
+    "DB/Exercieses/Tutorials/practice_03.pdf",
+    "DB/Exercieses/Tutorials/practice_04.pdf",
+    "DB/Exercieses/Tutorials/practice_05.pdf",
+    "DB/Exercieses/Tutorials/practice_06.pdf",
+    "DB/Exercieses/exercises.pdf",
+    "General.md",
+    "Good Ideas.md",
+    "Viki DP notes.md",
+    "DB/Slides/Transaction Management/Transaction Management Questions.md",
+    "DB/Query Optimization.md",
+    "DB/Slides/SQL/SQL.md",
+    "DB/Slides/ErModeling/ERModeling.pdf",
+    "DB/Slides/Design Theory/Questions.md",
+    "DB/Slides/Book/principles-of-database-and-knowledge-base-systems-volume-1-1.pdf",
+    "DB/Slides/Book/elektroModulatorDva.pdf",
+    "DB/Questions/Accumulated Questions.md",
+    "DB/lab3/Laboratory report.md",
+    "DB/lab2/Questions.md",
+    "DB/lab2/Laboratory report.md",
+    "DB/lab1/Questions Lab 1.md",
+    "DB/lab1/Laboratory report.md",
+    "DB/lab4/Solution to an Interesting Question.md",
+    "DB/lab4/Laboratory report.md",
+    "CT/Exams/Exam1/1.jpg",
+    "CT/Exams/Exam1/2.jpg",
+    "CT/Exams/Exam1/3.jpg",
+    "CT/Exams/Exam1/4.jpg",
+    "CT/Exams/Exam1/5.jpg",
+    "CT/Exams/Exam2/1.jpeg",
+    "CT/Exams/Exam2/2.jpeg",
+    "CT/Exams/Exam2/3.jpeg",
+    "CT/Exams/Exam2/4.jpeg",
+    "CT/Exams/Exam2/5.jpeg",
+    "JAVA/Threads.md",
+    "JAVA/JAVA Notes.md",
+    "JAVA/Homework Selection.md",
+    "JAVA/Documentation/Documentation of the Graphing Calculator Application.md",
+    "PTS/Book and Lecture Notes/PTS Notes 1.md",
+    "SE/Questions/Agile Development Methods.md",
+    "SE/Questions/Requirements Management.md"
+  ]
+}

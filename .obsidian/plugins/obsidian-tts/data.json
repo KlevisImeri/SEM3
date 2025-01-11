@@ -1,0 +1,15 @@
+{
+  "defaultVoice": "Microsoft Zira - English (United States)",
+  "pitch": 1.2,
+  "rate": 4.2,
+  "volume": 1,
+  "speakLinks": false,
+  "speakFrontmatter": true,
+  "speakSyntax": false,
+  "speakTitle": true,
+  "speakCodeblocks": true,
+  "speakEmoji": true,
+  "speakComments": true,
+  "languageVoices": [],
+  "stopPlaybackWhenNoteChanges": false
+}

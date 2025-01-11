@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "cssTheme": "Atom",
+  "enabledCssSnippets": [
+    "Center"
+  ],
+  "textFontFamily": "Consolas",
+  "monospaceFontFamily": "Consolas",
+  "baseFontSize": 19,
+  "translucency": false,
+  "interfaceFontFamily": "Consolas",
+  "showViewHeader": false
+}

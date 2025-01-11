@@ -1,0 +1,4 @@
+1. For 1.b did we need to integrate?
+2. For 5: I got k/e for Chernoff's and 1/k^2 for Chebyshev's. How come the Chernoff's is worse. There is something wrong but I can not find it. I got the min for t=$\lambda$/k. You got the same in class and I think it is wrong but it is very hard to find why.
+4. 6. The first probability (Chebyshev's) works for everyone but the second one in specific regions except for Exp where it works everywhere. It also aske why are they different. The problem is that only the probability with the expected value are different because there is no standardisation there. In the prespective of the deviation the all look like standardized normal variables. 
+5. 7. I need help here.
